@@ -1,6 +1,6 @@
 # PowerBI-Projects
 
-Welcome to my Power BI projects portfolio. Here, you will find examples of my work in Power BI, showcasing my skills in developing data models and visualizations to tell a story and help business users identify trends and add value.
+Welcome to my Power BI projects portfolio. Here, you'll discover examples of my work that highlight my expertise in creating data models and visualizations. These projects demonstrate how I leverage Power BI to tell compelling data stories, identify trends, and deliver valuable insights for business users.
 
 ## Projects
 
