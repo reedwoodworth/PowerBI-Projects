@@ -5,7 +5,7 @@ Welcome to my Power BI projects portfolio. Here, you'll discover examples of my 
 ## Projects
 
 ### Project 1: Sales Manager Dashboard
-- **Description:** This project involved creating a Sales dashboard for an imaginary company selling computer hardware. The intent was to develop a dashboard being fed with CRM system data, that would be used by sales managers to moniter their team's agent performance and open opportunity pipeline.
+- **Description:** This project involved creating a Sales dashboard for an imaginary company selling computer hardware. The intent was to develop a dashboard being fed with CRM system data, that would be used by sales managers to moniter their team's quarterly agent performance and open opportunity pipeline.
 - **Data Source:** CSV files containing sales pipeline data and other relavent dimension tables (simulating data from a CRM system).
 - **Key Insights:** Sales team performance by agent & product, quarterly trends, open opportunities.
 - **Technologies Used:** Power BI.
